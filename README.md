@@ -1,0 +1,1 @@
+# plugins-make-tables-responsive
