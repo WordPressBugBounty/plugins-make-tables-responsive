@@ -2,7 +2,7 @@
 Contributors: nnikolov
 Tags: tables, responsive, mobile
 Requires at least: 3.5
-Tested up to: 6.6
+Tested up to: 6.8
 Requires PHP: 5.3.6
 Stable tag: 1.8.0
 License: GPLv2 or later
